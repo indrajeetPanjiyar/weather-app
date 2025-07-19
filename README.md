@@ -1,4 +1,4 @@
-# 🌦️ Weather App — Real-Time Weather Forecast
+# 🌦️ Weather App — Real-Time Weather Data
 
 A responsive and modern **Weather App** that shows real-time weather information using the **OpenWeatherMap API**. Built with **HTML**, **CSS**, and **JavaScript**, it allows users to search for any city and get current weather data including temperature, conditions, humidity, and wind speed.
 
